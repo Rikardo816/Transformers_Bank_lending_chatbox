@@ -3,7 +3,9 @@ A chatbox implementation for bank lending through Transformers architecture
 
 ## Objective: 
 Develop a domain-specific chatbot using a generative architecture and Transformer models. The chatbot must understand and respond to user queries effectively within its domain. 
-Project Phases: 
+## 
+
+## Project Phases: 
 1 Domain Choice: 
 - Choose a specific application or domain for your chatbot (e.g., customer service, e-commerce, reservations and bookings, etc.). 
 - Define the scope of the chatbot, e.g., a customer service chatbot for a specific product, a movie recommendation chatbot, etc. 
