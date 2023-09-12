@@ -1,0 +1,43 @@
+La tarjeta de crédito es un instrumento material de identificación bancaria, que puede ser una tarjeta de plástico con una banda magnética, un microchip y un número en relieve. Es emitida por un banco o entidad financiera que autoriza a la persona a cuyo favor es emitida a utilizarla como medio de pago en los negocios adheridos al sistema, mediante su firma y la exhibición de la tarjeta. Es otra modalidad de financiación; por lo tanto, el usuario debe asumir la obligación de devolver el importe dispuesto y de pagar los intereses, comisiones bancarias y gastos.
+
+Entre las más conocidas del mercado están: Visa, MasterCard, American Express, Discover, Diners Club, JCB, UnionPay y Mir, entre otras.
+
+Características
+Los usuarios tienen límites con respecto a la cantidad de dinero que pueden disponer de acuerdo con la política de riesgos existente en cada momento y a las características personales y de solvencia económica de cada usuario. Generalmente no se requiere abonar la cantidad total cada mes. En lugar de esto, el saldo (o "revolvente") acumula un interés. Se puede hacer solo un "pago mínimo", así como pagar intereses sobre el saldo pendiente. Si se paga el saldo total, no se pagan intereses.
+
+La mayor ventaja es la flexibilidad que le da al usuario, quien puede pagar sus saldos por completo en su fecha límite mensual o puede pagar una parte. La tarjeta establece el pago mínimo y determina los cargos de financiación para el saldo pendiente. Las tarjetas de crédito también se pueden usar en los cajeros automáticos o en un banco para servirse de un adelanto de efectivo, aunque a diferencia de las tarjetas de débito, se cobra un interés por la disposición, comisión y, en algunos países, un impuesto porque se trata de un préstamo.
+
+Un pago con tarjeta de crédito es un pago con dinero M1, (dinero crediticio) que como crédito]]s. Por tanto, el hacer efectivo un cobro con tarjeta de crédito depende de la solvencia de la entidad emisora de la tarjeta. Ese dinero crediticio NO es de la persona que posee la tarjeta; lo tiene que pagar.
+
+Se suele cobrar una cuota anual por el uso de la tarjeta.
+
+Cuando se paga con tarjeta en el comercio, el cobrador suele pedir una identificación (identificación personal, permiso de conducir, etc.) y exige la firma del pagaré o voucher para acreditar que se es propietario de la tarjeta. Existen algunas excepciones donde no se solicita firmar el recibo; a este sistema se le denomina "autorizado sin firma" y suele utilizarse en comercios con grandes aglomeraciones de gente, como lo son cines, restaurantes de comida rápida y otros lugares similares. En algunos países se solicita el ingreso de un PIN para autorizar las compras de manera presencial.
+
+El resumen de cuenta de la tarjeta de crédito contiene los gastos que una persona hizo durante el último mes y las cuotas pendientes de pago. En el resumen figura el total de la deuda y también un pago mínimo, por ello se puede optar por pagar solo el mínimo para no estar en mora y pagar una multa; y financiar el resto de la deuda pagando intereses.[1]
+
+En caso de uso fraudulento hay que dar aviso por escrito a la entidad financiera o tienda que le da la tarjeta pidiendo que anule el cargo y seguir los trámites de cada institución. El emisor de la tarjeta debe demostrar que la compra ha sido hecha por el propietario.
+
+En caso de robo o pérdida de la tarjeta de crédito hay que avisar en forma inmediata al emisor de la tarjeta. En Argentina la Ley 25.065 obliga a los emisores de tarjetas de crédito a tener un sistema telefónico para recibir las denuncias las 24 horas, tienen que darte un número de denuncia y el emisor debe informar a los comercios que la tarjeta ha sido cancelada por robo o pérdida.
+
+Las compras con tarjeta de crédito pueden tener diversos seguros sobre el saldo financiado.
+
+Forma y origen
+Materialmente la tarjeta de crédito consiste en una pieza de plástico, cuyas dimensiones y características generales han adquirido absoluta uniformidad, por virtualidad del uso y de la necesidad técnica. El tamaño de la mayoría de las tarjetas de crédito es de 85,60 mm × 53,98 mm (33/8 pulgada × 21/8 pulgada) y cumple la norma ISO/IEC 7810 ID-1.
+
+Cada instrumento contiene las identificaciones de la entidad emisora y del afiliado autorizado para emplearla, así como el periodo temporal durante el cual ese instrumento mantendrá su vigencia. Suele contener también la firma del portador legítimo y un sector con asientos electrónicos perceptibles mediante instrumentos adecuados. Estos asientos identifican esa particular tarjeta y habilitan al portador para disponer del crédito que conlleva el presentarla, sin estampar su firma.
+
+Con respecto al origen, podemos decir que apareció en los comienzos del siglo xx en los Estados Unidos. Concretamente, la idea surgió dentro de las oficinas del Chase Manhattan Bank, a manos de su director, bajo la modalidad de tarjeta profesional. Se instituyó con su forma mayoritaria alrededor de la década de los años 1940 y tomó difusión desde la mitad del siglo.
+
+Número de la tarjeta
+Es un número de cuenta principal de las tarjetas de crédito y tarjetas bancarias. Tiene una cierta de estructura interna y un sistema común de numeración. Los números de tarjeta de crédito son un caso especial de la norma ISO/IEC 7812, números de tarjetas bancarias.
+
+La norma ISO/IEC 7812 contiene un número de un dígito identificador principal de la industria (MII), uno de seis dígitos Número de Identificación del Emisor (IIN), un número de cuenta y un verificador de un solo dígito calcula utilizando el algoritmo de Luhn. El MII es considerado como parte del IIN.
+
+El término "Emisor Número de Identificación" (IIN) sustituye a los utilizados anteriormente "Número de Identificación Bancaria" (BIN). Véase la norma ISO / IEC 7812 para más información.
+
+Tecnologías
+En el siglo xxi existen tres tecnologías disponibles para las tarjetas de crédito.
+
+La tradicional es la de la banda magnética. No obstante, se está extendiendo la de las tarjeta de crédito con microchip. Esta tecnología fue desarrollada por Roland Moreno. Un circuito electrónico integrado en la tarjeta realiza la mayor parte de los controles relativos a su uso y ofrece más seguridad al usuario y al banco emisor: el microchip integra dispositivos de protección electrónica que impiden su violación o la lectura sin autorización de la información que contiene. La última tecnología es el contactless, que permite pagar una transacción acercando la tarjeta a una terminal habilitada para procesar pagos sin contacto, de tal forma que no es necesario leer la tarjeta de forma física a través de la ranura de lectura.1​
+
+En los últimos años han aparecido alternativas sustentables como las tarjetas de crédito o débito en formato digital que están ligadas a una tarjeta física y se generan a través de las aplicaciones de las instituciones bancarias. Esta tecnología permite realizar transacciones en línea sin tener que divulgar la numeración original de la tarjeta plástica y, en algunos casos, el código CVV es dinámico, es decir, que cambiará en determinado tiempo para dar mayor seguridad al tarjetahabiente.2​
